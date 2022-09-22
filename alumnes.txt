@@ -1,8 +1,4 @@
 Xavi Quesada
-<<<<<<< HEAD
 Hola món!
-
-=======
 Marc Ariza Barrios
 No feu ni pull ni push
->>>>>>> 55b6b764035ae9efcfe9a52c15e7065c8aec68ac
